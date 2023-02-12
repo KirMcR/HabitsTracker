@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HabitsTracker</string>
+    <string name="habit">Привычка:</string>
+    <string name="duration">Длительность:</string>
+    <string name="habit_title_hint">Название привычки</string>
+    <string name="vertical_ellipsis">&#8942;</string>
+</resources>
